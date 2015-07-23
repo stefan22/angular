@@ -6,7 +6,7 @@ go to your browser, and in the same window where your SpecRunner.html is loaded 
 var javabuzz = new Javabuzz();
 and then throw some numbers at it:
 
->  java
+>  
 
 
 
