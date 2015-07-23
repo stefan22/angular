@@ -1,8 +1,5 @@
 angular
 
 
-go
-
-
 
 
