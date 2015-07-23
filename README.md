@@ -15,5 +15,5 @@ and then throw some numbers at it:
 >  javabuzz.says(15)
 <- "Javabuzz"
 
->  javabuzz.says
+>  javabuzz
 
