@@ -1,7 +1,7 @@
 angular
 
 
-go to
+go
 
 
 
