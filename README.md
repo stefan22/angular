@@ -9,8 +9,6 @@ and then throw some numbers at it:
 >  javabuzz.says(3)
 <- "Java"
 
->  
-
 
 
 
