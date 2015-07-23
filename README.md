@@ -10,7 +10,6 @@ and then throw some numbers at it:
 <- "Java"
 
 >  javabuzz.says(5)
-<- 
 
 
 
