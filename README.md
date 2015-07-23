@@ -16,4 +16,4 @@ and then throw some numbers at it:
 <- "Javabuzz"
 
 >  javabuzz.says(1)
-<- 1
+
