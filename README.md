@@ -1,7 +1,7 @@
 angular
 
 
-go to your browser, and in
+go to your browser, and
 
 
 
