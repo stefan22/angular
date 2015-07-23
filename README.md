@@ -12,7 +12,7 @@ and then throw some numbers at it:
 >  javabuzz.says(5)
 <- "Buzz"
 
->  javabuzz
+>  
 
 
 
